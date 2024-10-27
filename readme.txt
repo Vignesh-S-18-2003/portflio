@@ -19,6 +19,8 @@ Career Aspirations
 I am excited to connect with other professionals in the web development industry and explore potential career paths. I am particularly interested in opportunities that allow me to apply my technical skills while continuing to learn and innovate.
 
 Projects
+Each and Every Projects are based on Web Technology and FrontEnd as well as BackEnd
+
 Ecommerce Website
 
 Movie Explorer
